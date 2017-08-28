@@ -26,9 +26,11 @@ Here is my own collection of open question answering resources, including papers
 - Improved Neural Relation Detection for Knowledge Base Question Answering. [[Paper]](https://arxiv.org/pdf/1704.06194.pdf)
 - Question Answering with Subgraph Embeddings. [[Paper]](https://arxiv.org/pdf/1406.3676.pdf)
 - Open Question Answering with Weakly Supervised Embedding Models. [[Paper]](https://arxiv.org/pdf/1404.4326.pdf)
-- Joint relational embeddings for knowledge-based question answering. [[Paper]](https://pdfs.semanticscholar.org/eabb/8ddbd2b9cae7e2169d7f6681a5e7694ec088.pdf
+- Joint relational embeddings for knowledge-based question answering. [[Paper]](https://pdfs.semanticscholar.org/eabb/8ddbd2b9cae7e2169d7f6681a5e7694ec088.pdf)
 
-:white_check_mark: [
+:white_check_mark: [sdfas
+
+
 
 ## DBQA
 
