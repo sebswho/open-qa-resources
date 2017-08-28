@@ -13,14 +13,15 @@ Here is my own collection of open question answering resources, including papers
 
 
 
+
 ## KBQA
 
 - Character-Level Question Answering with Attention. [[Paper]](https://arxiv.org/pdf/1604.00727.pdf)
+- Simple Question Answering by Attentive Convolutional Neural Network. [[Paper]](https://arxiv.org/pdf/1606.03391)
 - Incorporating Copying Mechanism in Sequence-to-Sequence Learning. [[Paper]](https://arxiv.org/pdf/1603.06393.pdf)
 - CFO: Conditional Focused Neural Question Answering with Large-scale Knowledge Bases. [[Paper]](https://arxiv.org/pdf/1606.01994.pdf)
 - Natural language question answering over RDF: a graph data driven approach. [[Paper]](https://pdfs.semanticscholar.org/cb4d/277a51da6894fe5143013978567ef5f805c8.pdf)
 - Building Watson: An Overview of the DeepQA Project. [[Paper]](https://www.aaai.org/ojs/index.php/aimagazine/article/view/2303/2165)
-
 - Neural Enquirer: Learning to Query Tables with Natural Language. [[Paper]](https://arxiv.org/pdf/1512.00965.pdf)
 - Neural Generative Question Answering. [[Paper]](https://arxiv.org/pdf/1512.01337.pdf)
 - Improved Neural Relation Detection for Knowledge Base Question Answering. [[Paper]](https://arxiv.org/pdf/1704.06194.pdf)
@@ -28,14 +29,14 @@ Here is my own collection of open question answering resources, including papers
 - Open Question Answering with Weakly Supervised Embedding Models. [[Paper]](https://arxiv.org/pdf/1404.4326.pdf)
 - Joint relational embeddings for knowledge-based question answering. [[Paper]](https://pdfs.semanticscholar.org/eabb/8ddbd2b9cae7e2169d7f6681a5e7694ec088.pdf)
 
-:white_check_mark: [sdfas
-
 
 
 ## DBQA
 
-- Reading Wikipedia to Answer Open-Domain Questions. [[Paper]](https://arxiv.org/pdf/1704.00051.pdf)
+- Reading Wikipedia to Answer Open-Domain Questions. [[Paper]](https://arxiv.org/pdf/1704.00051.pdf)[[Code]](https://github.com/facebookresearch/DrQA)
 - Dynamic Coattention Networks For Question Answering. [[Paper]](https://arxiv.org/pdf/1611.01604.pdf)
+- Bi-Directional Attention Flow for Machine Comprehension. [[Paper]](https://arxiv.org/pdf/1611.01603)[[Code]](https://github.com/allenai/bi-att-flow)
+
 
 
 
