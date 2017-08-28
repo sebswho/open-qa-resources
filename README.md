@@ -5,11 +5,11 @@ Here is my own collection of open question answering resources, including papers
 
 ## MemNN
 
-- Memory Networks. [[Paper]]
+- Memory Networks. [[Paper]](https://arxiv.org/pdf/1410.3916)
 - End-To-End Memory Networks. [[Paper]](https://arxiv.org/pdf/1503.08895.pdf)
 - Large-scale Simple Question Answering with Memory Networks. [[Paper]](https://arxiv.org/pdf/1506.02075.pdf)
 - Ask Me Anything: Dynamic Memory Networks for Natural Language Processing. [[Paper]](https://pdfs.semanticscholar.org/04ee/77ef1143af8b19f71c63b8c5b077c5387855.pdf?_ga=2.262510276.979348402.1503942137-499880439.1499836627)
-- Key-Value Memory Networks for Directly Reading Documents. [[Paper]](https://arxiv.org/pdf/1606.03126)
+- Key-Value Memory Networks for Directly Reading Documents. [[Paper]](https://arxiv.org/pdf/1606.03126)[[Code]](https://github.com/siyuanzhao/key-value-memory-networks)
 
 
 
@@ -36,6 +36,7 @@ Here is my own collection of open question answering resources, including papers
 - Reading Wikipedia to Answer Open-Domain Questions. [[Paper]](https://arxiv.org/pdf/1704.00051.pdf)[[Code]](https://github.com/facebookresearch/DrQA)
 - Dynamic Coattention Networks For Question Answering. [[Paper]](https://arxiv.org/pdf/1611.01604.pdf)
 - Bi-Directional Attention Flow for Machine Comprehension. [[Paper]](https://arxiv.org/pdf/1611.01603)[[Code]](https://github.com/allenai/bi-att-flow)
+- ReasoNet: Learning to Stop Reading in Machine Comprehension. [[Paper]](https://arxiv.org/pdf/1609.05284.pdf)
 
 
 
