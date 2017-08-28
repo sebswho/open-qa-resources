@@ -18,6 +18,7 @@ Here is my own collection of open question answering resources, including papers
 
 - Character-Level Question Answering with Attention. [[Paper]](https://arxiv.org/pdf/1604.00727.pdf)
 - Simple Question Answering by Attentive Convolutional Neural Network. [[Paper]](https://arxiv.org/pdf/1606.03391)
+- Neural Network-based Question Answering over Knowledge Graphs on Word and Character Level. [[Paper]](https://pdfs.semanticscholar.org/fb6f/dc8874812f691ed7f1dca168e72304aeb1e5.pdf)
 - Incorporating Copying Mechanism in Sequence-to-Sequence Learning. [[Paper]](https://arxiv.org/pdf/1603.06393.pdf)
 - CFO: Conditional Focused Neural Question Answering with Large-scale Knowledge Bases. [[Paper]](https://arxiv.org/pdf/1606.01994.pdf)
 - Natural language question answering over RDF: a graph data driven approach. [[Paper]](https://pdfs.semanticscholar.org/cb4d/277a51da6894fe5143013978567ef5f805c8.pdf)
