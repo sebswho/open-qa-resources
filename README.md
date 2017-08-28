@@ -5,7 +5,7 @@ Here is my own collection of open question answering resources, including papers
 
 ## MemNN
 
-- Memory Networks. [[Paper]](https://arxiv.org/pdf/1410.3916)
+- Memory Networks. [[Paper]]
 - End-To-End Memory Networks. [[Paper]](https://arxiv.org/pdf/1503.08895.pdf)
 - Large-scale Simple Question Answering with Memory Networks. [[Paper]](https://arxiv.org/pdf/1506.02075.pdf)
 - Ask Me Anything: Dynamic Memory Networks for Natural Language Processing. [[Paper]](https://pdfs.semanticscholar.org/04ee/77ef1143af8b19f71c63b8c5b077c5387855.pdf?_ga=2.262510276.979348402.1503942137-499880439.1499836627)
@@ -29,10 +29,6 @@ Here is my own collection of open question answering resources, including papers
 - Joint relational embeddings for knowledge-based question answering. [[Paper]](https://pdfs.semanticscholar.org/eabb/8ddbd2b9cae7e2169d7f6681a5e7694ec088.pdf)
 
 :white_check_mark: [
-
-:white_check_mark: [[RelNet: End-to-end Modeling of Entities & Relations][[Paper]](https://arxiv.org/pdf/1706.07179.pdf) 
-
-
 
 ## DBQA
 
